@@ -16,14 +16,16 @@
 - 🎓 ICS from Fauji Foundation College, Gujar Khan
 - 📚 Completed **Cyber Security Fundamentals**, **Cisco Networking Basics**, and a **70-hour Ethical Hacking** course
 - 🧑‍🏫 Delivered my first teaching session on **practical Web Application Pentesting** to students at **AstraQuantum**
-- 🐛 Active bug bounty hunter on **Bugcrowd**
-- 🌱 Currently sharpening skills in recon automation, API security testing, and purple-team fundamentals
+- 🏆 Competed in a Jeopardy CTF at **NUST Hackathon** — placed 65th solo among 100 teams
+- 🌱 Currently focused on **Offensive Security**, **Ethical Hacking**, **Red Teaming**, and **Android Pentesting**
 
 ---
 
 ### Tech & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AdaptixC2-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=red" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
