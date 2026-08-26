@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm gh0st 👋</h1>
-<h3 align="center">Cybersecurity Student | Offensive Security | Bug Bounty Hunter</h3>
+<h3 align="center">Cybersecurity Student | Offensive Security | Red Teaming</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=flat-square" />
