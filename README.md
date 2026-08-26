@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm gh0st 👋</h1>
-<h3 align="center">Cybersecurity Student | Offensive Security | Red Teaming</h3>
+<h3 align="center">Cybersecurity Student | Offensive Security | Red Teamer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=flat-square" />
@@ -36,12 +36,9 @@
 
 ---
 
-### GitHub Stats
+### 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=inamulhaqhere&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=inamulhaqhere&theme=radical" width="48%" />
-</p>
+Check out my pinned repositories below for project details and code samples.
 
 ---
 
