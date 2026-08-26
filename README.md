@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm gh0st 👋</h1>
+<h3 align="center">Cybersecurity Student | Offensive Security | Bug Bounty Hunter</h3>
 
-<!--
-**inamulhaqhere/inamulhaqhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-blue?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🎯 Cybersecurity student focused on **offensive security** — web app pentesting, recon, and vulnerability research
+- 🛡️ Completed an internship in **Offensive Security at Zero Day Reapers**
+- 🎓 ICS from Fauji Foundation College, Gujar Khan
+- 📚 Completed **Cyber Security Fundamentals**, **Cisco Networking Basics**, and a **70-hour Ethical Hacking** course
+- 🧑‍🏫 Delivered my first teaching session on **practical Web Application Pentesting** to students at **AstraQuantum**
+- 🐛 Active bug bounty hunter on **Bugcrowd**
+- 🌱 Currently sharpening skills in recon automation, API security testing, and purple-team fundamentals
+
+---
+
+### Tech & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inamulhaqhere&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inamulhaqhere&theme=radical" width="48%" />
+</p>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/inam-ul-haq-a684233a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
